@@ -1,4 +1,4 @@
-# flutter_docs_available_kittens
+# Flutter Material Design Dialog Sample
 
 A dialog sample using Material Design from Flutter docs.
 
